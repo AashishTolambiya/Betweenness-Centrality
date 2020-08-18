@@ -1,4 +1,4 @@
-# Betweenness-Centrality
+# Betweenness-Centrality for Network Graphs
 The set of programs deals with betweenness centrality computation in networks. A network is represented as an undirected graph.
 Betweenness centrality for a given vertex in a graph is the ratio of number of shortest paths passing through that vertex by the total number of shortest paths present in the graph. 
 Graphs are stored in the form of adjacency lists, and betweenness centrality is computated using Floyd-Warshall Algorithm and Breadth First Search ALgorithm (Remember that, originally, Floyd Warshall algorithm is meant for directed graphs).
